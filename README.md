@@ -15,4 +15,8 @@ Comencé mi carrera académica en Educación. Sin embargo, la programación me h
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='php' src='https://img.shields.io/badge/PHP-100000?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=FFFFFF&color=777BB4'/></a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alusilcof5)](https://github.com/alusilcof5/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alusilcof5&layout=donut)](https://github.com/alusilcof5/github-readme-stats)
+<br>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alusilcof5&theme=ocean-dark&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=1000&card_height=100)](https://git.io/streak-stats)
