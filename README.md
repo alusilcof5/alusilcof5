@@ -7,3 +7,8 @@ Comencé mi carrera académica en Educación. Sin embargo, la programación me h
 ### Contact me
 - My mail is coderalsc@gmail.com
 - My LinkedIn is: <a href="https://www.linkedin.com/in/ana-luc%C3%ADa-silva-c%C3%B3rdoba-a11472249/" target="blank" height="30" width="40">Ana Lucía Silva Córdoba</p>
+
+
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Github' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=Github&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='CSS3' src='https://img.shields.io/badge/CSS3-100000?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=0011FF&color=092FF1'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='HTML5' src='https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=F4760E&color=FD7A00'/></a>
