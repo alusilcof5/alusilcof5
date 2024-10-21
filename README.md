@@ -13,3 +13,6 @@ Comencé mi carrera académica en Educación. Sin embargo, la programación me h
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='CSS3' src='https://img.shields.io/badge/CSS3-100000?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=0011FF&color=092FF1'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='HTML5' src='https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=F4760E&color=FD7A00'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='php' src='https://img.shields.io/badge/PHP-100000?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=FFFFFF&color=777BB4'/></a>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alusilcof5)](https://github.com/alusilcof5/github-readme-stats)
