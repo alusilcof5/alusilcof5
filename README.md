@@ -1,5 +1,4 @@
-BANNER
-
+![Welcome](https://github.com/user-attachments/assets/c286617e-7baa-4391-a6bb-50db914a5d56)
 ---
 Soy desarrolladora FullStack, creativa, curiosa y autodidacta. Me gusta trabajar en ambientes dinámicos y cambiantes, donde poder resolver problemas es un reto diario. Por mi experiencia y formación como docente e investigadora, tengo facilidad para comunicarme, para afrontar retos, y adaptarme a diversas situaciones trabajando en equipo.
 
