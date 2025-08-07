@@ -32,8 +32,9 @@ I’m always open to connecting with people who are passionate about tech, educa
 ![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=seo&logoColor=white) ![Google Project Management](https://img.shields.io/badge/Project_Management-333333?style=for-the-badge&logo=projectmanagement&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-0096D8?style=for-the-badge&logo=agile&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alusilco&hide_progress=true)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alusilco&theme=highcontrast&hide_border=true&border_radius=5&mode=weekly)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alusilcof5&hide_progress=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alusilcof5&theme=highcontrast&hide_border=true&border_radius=5&mode=weekly)](https://git.io/streak-stats)
 
 <div align="center" style="background-color: white;">
   
+
