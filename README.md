@@ -36,13 +36,13 @@ I’m always open to connecting with people who are passionate about tech, educa
 
 
 <div align="center" style="background-color: white;">
-  
+
 <h3 align="left">My Stats :</h3>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/alusilcof5/alusilcof5/output/github-contribution-grid-snake.svg" />
 </div>
-###
+
 
 
 
