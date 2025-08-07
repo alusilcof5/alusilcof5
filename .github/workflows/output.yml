@@ -2,14 +2,14 @@ name: Generar Snake Game desde la cuadrícula de contribución
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Ejecuta diariamente
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Clonar el repositorio
+      - name: Checkout del repositorio
         uses: actions/checkout@v4
 
       - name: Generar Snake
@@ -18,8 +18,6 @@ jobs:
           github_user_name: alusilcof5
           outputs: |
             github-contribution-grid-snake.svg?palette=github-dark&color_snake=azul
-            github-contribution-grid-snake-light.svg?palette=github-light&color_snake=verde
-            github-contribution-grid-snake-ocean.gif?color_snake=naranja&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: Publicar en el branch output
         uses: crazy-max/ghaction-github-pages@v4
