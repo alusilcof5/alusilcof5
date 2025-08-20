@@ -1,5 +1,5 @@
 <img width="1282" height="416" alt="Image" src="https://github.com/user-attachments/assets/51c836b6-8e51-42ce-a3c1-5be6bff2e6b7" />
-______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 ### About Me
 
 I’m currently focused as I’m committed to continuously improving in my field.
@@ -42,6 +42,7 @@ I’m always open to connecting with people who are passionate about tech, educa
 <div align="center">
   <img src="https://raw.githubusercontent.com/alusilcof5/alusilcof5/output/github-contribution-grid-snake.svg" />
 </div>
+
 
 
 
